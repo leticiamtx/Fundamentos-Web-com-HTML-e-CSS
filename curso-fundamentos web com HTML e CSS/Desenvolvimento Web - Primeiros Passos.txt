@@ -1,0 +1,143 @@
+#História - Momentos principais 
+
+1969 - EUA - Arpanet - Departamento de Defesa/ Guerra Fria/ Interligar labs e envio primeiro email
+1982 - Universidades na Europa
+1987 - Liberado uso comercial nos EUA
+1992 -  CERN cria a World Wide Web/ dados acessíveis a qualquer pessoa com Internet
+
+Brasil
+1988 - LNCC, UFRJ, FAPESP
+1994 - Uso comercial/ EMBRATEL
+Conexão discada
+2000 - Banda larga
+
+Primeiro domínio criado: symbolics.com
+
+#Termos-chave
+Link:
+https://www.opservices.com.br/dicionario-da-ti/
+
+cache - armazenamento temporário no disco rígido de páginas web
+crack - pequeno software usado para quebrar um sistema de segurança qualquer
+host - qualquer computador ou máquina conectado a uma rede, que conta com número de IP e nome definidos
+HTML - linguagem de marcação utilizada na construção de páginas na Web
+HTTP - O Hypertext Transfer Protocol é um protocolo de comunicação utilizado para sistemas de informação de hipermídia, distribuídos e colaborativos
+Base para a comunicação de dados da World Wide Web
+spam - "Sending and Posting Advertisement in Mass", mensagem enviada sem permissão, consentimento
+URL - endereço de recurso na rede como a Internet
+cookies - são arquivos que identificam o usuário durante visita a um site 
+firewall - solução de segurança baseada em hardware ou software que, a partir de um conjunto de regras ou instruções, analisa o tráfego de rede para determinar quais operações de transmissão ou recepção de dados podem ser executadas
+IP -  é um número identificador dado ao seu computador, ou roteador, ao conectar-se à rede
+keylogger - é o ato de gravar cada tecla digitada em um computador, geralmente sem a permissão ou o conhecimento do usuário
+phishing - enganar as pessoas para que compartilhem informações confidenciais
+pop-up - tipo de janela que se abre no navegador ao visitar uma página web ou acessar uma hiperligação específica
+
+
+#Como funciona a Internet
+
+Redes - compartilhamento de dados entre dispositivos diferentes em tempo real
+Backbone - espinha dorsal, espalhadas pelo mundo, gerenciam as redes
+Provedor de acesso - empresas, contratam o sinal do backbone e repassam ao usuário
+Provedores de serviço:
+Dial-up - cenexão discada
+ADSL (banda larga)
+Fibra ótica
+Rádio 
+Satélite
+Móvel
+P2P*(peer to peer) 
+
+#Caminho da Internet até você
+Digitamos o endereço de pesquisa e o DNS transforma isso em um IP, depois é feita classificação da rede, exitem diversas classes de rede de A a E. 
+
+#TCP/IP, portas, roteadores, switches e modems
+
+TCP/IP - Transmission Control Protocol/Internet Protocol
+Protocolos de comunicação entre computadores em rede
+4 etapas:
+1- Física - ex:placa de rede
+2- Rede - ex:IP
+3- Transporte - ex:TCP,UDP
+UDP - Rápido, livestrem e não confiável(informações podem se perder, não há complicação)
+TCP - Voltado à conexão, handshake, integridade e ordem dos dados, aplicativos de mensagem
+4- Aplicação - ex:FTP,SMTP,HTTP
+
+Portas - por onde os dados saem e chegam
+20: FTP - apenas envio de arquivos
+22: SSH - protocolo de rede criptográfico para operação de serviços de rede de forma segura sobre uma rede insegura, uso em login remoto de utilizadores a sistema de computadores
+25: SMTP - envio de email
+53: DNS - converter busca em um IP
+80: HTTP - requisição simples
+443: HTTPS - requisição segura
+
+Modem
+Modulator-demodulator
+Hardware que converte dados em um formato que possa ser transmitido de um computador e lido por outro
+
+Rotear
+Distribui internet de um ou mais dispositivos por uma rede
+Pode fazer comunicação entre redes
+
+Switch
+Distribui internet para um ou mais dispositivos de uam rede
+
+#Browser,sites, aplicativos e webserver
+Browser
+Sabe identificar linguagens de programação, linguagens de marcação e conteúdo multimedia
+Ajudam na navegação por plug-ins, adds-on, possui cache e cookies
+
+Site 
+Página da internet
+
+Aplicativo
+Software executado no navegador
+
+Web-server
+Onde ficam guardadas nossas informações e dodos
+Podem ser estáticos (servidor físico) ou dinâmicos (softwares presentes no servidor físico, engloba arquivos, aplicações, banco de dados) 
+
+Web-service - interface disponível para fazer requisições e consultas
+
+#Stacks
+Pilhas de tecnologia
+Conjuntos de softwares necessários e suficientes para executar um aplicativo
+Linguagens de programação
+Ambientes e ferramentas de interação com apps
+Capacidade e limitação de performance
+
+Importância
+Líderes precisam das informações das equipes de desenvolvimento, os limites e capacidades das ferramentas e ambientes disponíveis.
+Verificar sistemas, bancos de dados e linguagens utilizadas, maturidade de desenvolvimento da empresa e profissionais e estratégias de negócios
+
+Front-end
+Galera da frente
+Interface, UI, UX
+Site, software, aplicativo e web-service
+Lógica de programação e linguagem de marcação
+
+Back-end
+Galera de trás
+Servidores, bancos de dados, indo de interface e banco de dados, lida com validações e regras de négocios
+
+Full stack
+Profissional que trabalha em todas as áreas e camadas das tecnologias de desenvolvimento e execução
+
+#LP's e termos
+Principais: HTML, CSS,JavaScript(jQuery,AJAX, diversas libs), PHP, .NET, ASP, Java, Ruby, Python, Perl, C/C++/C#
+
+404- endereço inexistente
+ALT- texto alternativo, descrição
+API - funcionalidade extra para executar função específica
+Bootstrap- framewark javascript muito usado
+Breakpoints- pontos base
+Debug- tentar descobrir o que gera problema e revisão
+DNS- tradutor para IP
+DPI- proporção de pontos na tela, mais pontos maior é a resolução
+MVC- model view controler, "separação" dos mesmos
+MVP- mínimo produto viável para que seja testado ou utilizado
+SSL- camada de seguraça 
+UI- interface do usuário
+UX- user experience
+WYSIWYG- permite editar sua página da Web em uma visualização simplificada e sem código de aparência semelhante à do layout da página real
+
+
